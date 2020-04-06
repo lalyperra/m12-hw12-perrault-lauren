@@ -1,0 +1,12 @@
+button {
+    padding: 5%;
+    font-size: 2em;
+}
+
+button:hover {
+    opacity: 50%;
+}
+
+p {
+    font-size: 1.5em;
+}
